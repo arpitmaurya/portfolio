@@ -17,63 +17,63 @@ function Skills() {
                   <div className='col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center'>
                     <img
                       className='technology-image  slide-in-bottom-technology'
-                      src='../images/React.png'
+                      src='./assets/images/React.png'
                       alt='React'
                     ></img>
                   </div>
                   <div className='col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center'>
                     <img
                       className='technology-image  slide-in-bottom-technology'
-                      src='../images/js.png'
+                      src='./assets/images/js.png'
                       alt='Java Script'
                     ></img>
                   </div>
                   <div className='col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center'>
                     <img
                       className='technology-image  slide-in-bottom-technology'
-                      src='../images/html.png'
+                      src='./assets/images/html.png'
                       alt='Html'
                     ></img>
                   </div>
                   <div className='col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center'>
                     <img
                       className='technology-image  slide-in-bottom-technology'
-                      src='../images/css.png'
+                      src='./assets/images/css.png'
                       alt='Css'
                     ></img>
                   </div>
                   <div className='col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center'>
                     <img
                       className='technology-image  slide-in-bottom-technology'
-                      src='../images/bootstrap.png'
+                      src='./assets/images/bootstrap.png'
                       alt='Bootstrap'
                     ></img>
                   </div>
                   <div className='col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center'>
                     <img
                       className='technology-image  slide-in-bottom-technology'
-                      src='../images/mongodb.png'
+                      src='./assets/images/mongodb.png'
                       alt='MongoDb'
                     ></img>
                   </div>
                   <div className='col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center'>
                     <img
                       className='technology-image  slide-in-bottom-technology'
-                      src='../images/firebase.png'
+                      src='./assets/images/firebase.png'
                       alt='MongoDb'
                     ></img>
                   </div>
                   <div className='col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center'>
                     <img
                       className='technology-image  slide-in-bottom-technology'
-                      src='../images/tailwind.png'
+                      src='./assets/images/tailwind.png'
                       alt='Tailwind'
                     ></img>
                   </div>
                   <div className='col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center'>
                     <img
                       className='technology-image  slide-in-bottom-technology'
-                      src='../images/socket.png'
+                      src='./assets/images/socket.png'
                       alt='Tailwind'
                     ></img>
                   </div>
@@ -83,7 +83,7 @@ function Skills() {
             <div className='col-lg-6 col-md-12 col-sm-12'>
               <img
                 className='img-fluid'
-                src='../images/Development-pana.png'
+                src='./assets/images/Development-pana.png'
                 alt='...'
               ></img>
             </div>

@@ -93,7 +93,7 @@ function Sidebar() {
               <li>
                 <a
                   className='dropdown-item text-black'
-                  href='mailto:arpitmaurya021@email.com'
+                  href='mailto:arpitmaurya021@gmail.com'
                   target='/blank'
                 >
                   <MdEmail className='fs-5' /> Email

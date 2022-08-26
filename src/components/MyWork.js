@@ -24,63 +24,63 @@ function MyWork() {
                 <div className='carousel-inner'>
                   <div className='carousel-item active'>
                     <img
-                      src='../portfolio-images/mac_1.png'
+                      src='./assets/portfolio-images/mac_1.png'
                       className='p-3 d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/mac_2.png'
+                      src='./assets/portfolio-images/mac_2.png'
                       className=' p-3 d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/mac_3.png'
+                      src='./assets/portfolio-images/mac_3.png'
                       className='p-3 d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/mac_4.png'
+                      src='./assets/portfolio-images/mac_4.png'
                       className='p-3 d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/mac_5.png'
+                      src='./assets/portfolio-images/mac_5.png'
                       className='p-3 d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/mac_6.png'
+                      src='./assets/portfolio-images/mac_6.png'
                       className='p-3 d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/mac_7.png'
+                      src='./assets/portfolio-images/mac_7.png'
                       className='p-3 d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/mac_8.png'
+                      src='./assets/portfolio-images/mac_8.png'
                       className='p-3 d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/mac_9.png'
+                      src='./assets/portfolio-images/mac_9.png'
                       className='p-3 d-block w-100'
                       alt='...'
                     />
@@ -133,35 +133,35 @@ function MyWork() {
                 <div className='carousel-inner'>
                   <div className='carousel-item active'>
                     <img
-                      src='../portfolio-images/d1.png'
+                      src='./assets/portfolio-images/d1.png'
                       className='p-3 d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/d2.png'
+                      src='./assets/portfolio-images/d2.png'
                       className='p-3 d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/d3.png'
+                      src='./assets/portfolio-images/d3.png'
                       className='p-3 d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/d4.png'
+                      src='./assets/portfolio-images/d4.png'
                       className='p-3 d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/d5.png'
+                      src='./assets/portfolio-images/d5.png'
                       className='p-3 d-block w-100'
                       alt='...'
                     />
@@ -214,28 +214,28 @@ function MyWork() {
                 <div className='carousel-inner'>
                   <div className='carousel-item active'>
                     <img
-                      src='../portfolio-images/i1.png'
+                      src='./assets/portfolio-images/i1.png'
                       className='p-3 d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/i2.png'
+                      src='./assets/portfolio-images/i2.png'
                       className='p-3  d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/i3.png'
+                      src='./assets/portfolio-images/i3.png'
                       className='p-3  d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/i4.png'
+                      src='./assets/portfolio-images/i4.png'
                       className='d-block p-3 w-100'
                       alt='...'
                     />
@@ -288,28 +288,28 @@ function MyWork() {
                 <div className='carousel-inner'>
                   <div className='carousel-item active'>
                     <img
-                      src='../portfolio-images/w1.png'
+                      src='./assets/portfolio-images/w1.png'
                       className='p-3 d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/w2.png'
+                      src='./assets/portfolio-images/w2.png'
                       className='p-3  d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/w3.png'
+                      src='./assets/portfolio-images/w3.png'
                       className='p-3  d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/w4.png'
+                      src='./assets/portfolio-images/w4.png'
                       className='d-block p-3 w-100'
                       alt='...'
                     />
@@ -361,28 +361,28 @@ function MyWork() {
                 <div className='carousel-inner'>
                   <div className='carousel-item active'>
                     <img
-                      src='../portfolio-images/q1.png'
+                      src='./assets/portfolio-images/q1.png'
                       className='p-3 d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/q2.png'
+                      src='./assets/portfolio-images/q2.png'
                       className='p-3  d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/q3.png'
+                      src='./assets/portfolio-images/q3.png'
                       className='p-3  d-block w-100'
                       alt='...'
                     />
                   </div>
                   <div className='carousel-item'>
                     <img
-                      src='../portfolio-images/q4.png'
+                      src='./assets/portfolio-images/q4.png'
                       className='d-block p-3 w-100'
                       alt='...'
                     />
