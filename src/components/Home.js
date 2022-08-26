@@ -317,7 +317,7 @@ function Home() {
 
             <div class='timeline-row'>
               <div class='timeline-time'>
-                Question Finder<small>Jul 16, 2021</small>
+                Instagram Clone<small>Jun 16, 2022</small>
               </div>
               <div class='timeline-content'>
                 <i class='icon-attachment'></i>

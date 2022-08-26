@@ -1,7 +1,7 @@
 {
   "projects": {
-    "deploy": "arpitmaurya-portfolio",
-    "default": "arpitmaurya-portfolio"
+    "deploy": "arpitmaurya16-portfolio",
+    "default": "arpitmaurya16-portfolio"
   },
   "targets": {},
   "etags": {}
