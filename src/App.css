@@ -190,3 +190,9 @@ li::marker {
     -ms-transition: background-color 300ms linear;
     transition: background-color 300ms linear;
 }
+
+
+[aria-labelledby='dropdownUser1']{
+  inset: unset !important;
+  top: 12px !important;
+}

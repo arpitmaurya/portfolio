@@ -73,61 +73,63 @@ function Sidebar() {
                 <span className='ms-1 d-none d-sm-inline '>My Work</span>
               </NavLink>
             </li>
+            <li>
+              <div className='dropdown pt-1 '>
+                <a
+                  href='/'
+                  className='d-flex align-items-center text-white text-decoration-none dropdown-toggle'
+                  id='dropdownUser1'
+                  data-bs-toggle='dropdown'
+                  aria-expanded='false'
+                >
+                  <MdOutlineContactPage className='fs-5' />
+                  <span className='d-none d-sm-inline mx-1'>Contact</span>
+                </a>
+                <ul
+                  className='dropdown-menu shadow'
+                  aria-labelledby='dropdownUser1'
+                >
+                  <li>
+                    <a
+                      className='dropdown-item text-black'
+                      href='mailto:arpitmaurya021@gmail.com'
+                      target='/blank'
+                    >
+                      <MdEmail className='fs-5' /> Email
+                    </a>
+                  </li>
+                  <li>
+                    {' '}
+                    <hr className='dropdown-divider' />{' '}
+                  </li>
+                  <li>
+                    <a
+                      className='dropdown-item text-black'
+                      href='https://www.linkedin.com/in/arpitmaurya/'
+                      target='/blank'
+                    >
+                      <AiFillLinkedin className='fs-5' /> LinkedIn
+                    </a>
+                  </li>
+                  <li>
+                    {' '}
+                    <hr className='dropdown-divider' />{' '}
+                  </li>
+
+                  <li>
+                    <a
+                      className='dropdown-item text-black'
+                      href='https://github.com/arpitmaurya'
+                      target='/blank'
+                    >
+                      <AiFillGithub className='fs-5' /> Github
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </li>
           </ul>
           <hr />
-          <div className='dropdown pb-4 dropup'>
-            <a
-              href='/'
-              className='d-flex align-items-center text-white text-decoration-none dropdown-toggle'
-              id='dropdownUser1'
-              data-bs-toggle='dropdown'
-              aria-expanded='false'
-            >
-              <MdOutlineContactPage className='fs-5' />
-              <span className='d-none d-sm-inline mx-1'>Contact</span>
-            </a>
-            <ul
-              className='dropdown-menu shadow'
-              aria-labelledby='dropdownUser1'
-            >
-              <li>
-                <a
-                  className='dropdown-item text-black'
-                  href='mailto:arpitmaurya021@gmail.com'
-                  target='/blank'
-                >
-                  <MdEmail className='fs-5' /> Email
-                </a>
-              </li>
-              <li>
-                {' '}
-                <hr className='dropdown-divider' />{' '}
-              </li>
-              <li>
-                <a
-                  className='dropdown-item text-black'
-                  href='https://www.linkedin.com/in/arpitmaurya/'
-                  target='/blank'
-                >
-                  <AiFillLinkedin className='fs-5' /> LinkedIn
-                </a>
-              </li>
-              <li>
-                {' '}
-                <hr className='dropdown-divider' />{' '}
-              </li>
-           
-              <li>
-                <a
-                  className='dropdown-item text-black'
-                  href='https://github.com/arpitmaurya'
-                  target='/blank'
-                >
-                  <AiFillGithub className='fs-5' /> Github
-                </a>
-              </li>
-            </ul>
-          </div>
         </div>
       </div>
     </Fragment>
